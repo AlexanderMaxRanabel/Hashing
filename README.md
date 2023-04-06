@@ -1,0 +1,2 @@
+# Hashing
+A simple hashing
